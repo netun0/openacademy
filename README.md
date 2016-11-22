@@ -1,0 +1,3 @@
+# openacademy
+
+Odoo Module example
